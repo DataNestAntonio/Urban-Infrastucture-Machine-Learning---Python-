@@ -1,4 +1,4 @@
-# Machine-Learning- City Block Failure Risk Prediction
+# Machine Learning (City Block Failure Risk Prediction)
 This repository contains the code and experiments for a machine learning project that predicts failure risk for city blocks using logistic regression and related methods. The goal is to help prioritise blocks that may be at higher risk, rather than to guarantee that no failures will occur.
 
 
